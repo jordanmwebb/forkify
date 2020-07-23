@@ -1,7 +1,7 @@
 Forkify
 ======
 
-https://suspicious-kare-6072e1.netlify.app/#54454
+https://forkify-recipe-explorer.netlify.app/
 
 #### Culinary app that allows users to search for recipes, add items to their grocery list, and save dishes to their favorites.
 
